@@ -1,0 +1,9 @@
+.env*
+!.env.example
+.idea/
+.vscode/
+*.log
+*.tmp
+vendor/
+Thumbs.db
+desktop.ini
